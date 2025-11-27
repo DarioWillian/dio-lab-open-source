@@ -23,7 +23,7 @@ Minha paixão está em aprender e aplicar novas tecnologias, sempre buscando apr
 | Plataforma | Link |
 | :--- | :--- |
 | **GitHub** | [@DarioWillian](https://github.com/DarioWillian) |
-| **LinkedIn** | [dário-willian ([Opcional](https://www.linkedin.com/in/d%C3%A1rio-willian-080029349/))] |
+| **LinkedIn** |[@dário-willian](https://www.linkedin.com/in/d%C3%A1rio-willian-080029349/) |
 
 <br>
 
